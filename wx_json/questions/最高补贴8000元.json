@@ -1,0 +1,29 @@
+{
+    "title": "最高补贴8000元",
+    "questions": [
+        {
+            "information": "补贴范围",
+            "question": "哪些车辆可以获得补贴？"
+        },
+        {
+            "information": "补贴期限",
+            "question": "补贴的期限是什么时候？"
+        },
+        {
+            "information": "补贴标准",
+            "question": "购买新能源汽车和燃油汽车的补贴标准分别是多少？"
+        },
+        {
+            "information": "怎样获得补贴？",
+            "question": "个人消费者如何获得补贴？"
+        },
+        {
+            "information": "个人消费者申请补贴需要提供的资料",
+            "question": "个人消费者申请补贴需要提供哪些资料？"
+        },
+        {
+            "information": "湖北省内的厂家授权经销商名单",
+            "question": "湖北省内的厂家授权经销商名单如何获取？"
+        }
+    ]
+}
